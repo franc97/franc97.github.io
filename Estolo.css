@@ -1,0 +1,30 @@
+body{
+	font-family: Arial;
+	background-color: #ccc;
+	width: 80%;	
+	margin: 20px auto; 
+}	
+   
+header{
+	background-color:  #303030;
+	color: #fff
+	   padding: 20px;
+}
+/*eliminar las villetas del menu*/
+header ul{
+	outline-style: none;
+} 
+header ul li a{
+	color: #fff;
+	text-decoration: none;
+}
+main{
+	background-color: #fff;
+	padding: 20px;
+}
+footer{
+	background-color: 303030;
+	color: #fff;
+	padding: 10px;
+}
+
