@@ -7,7 +7,7 @@ body{
    
 header{
 	background-color:  #303030;
-	color: #fff
+	color: #fff;
 	padding: 20px;
 }
 /*eliminar las villetas del menu*/
@@ -23,7 +23,7 @@ main{
 	padding: 20px;
 }
 footer{
-	background-color: 303030;
+	background-color: #303030;
 	color: #fff;
 	   padding: 10px;
 }
